@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faisal12101123.github.io/monster-rolodex/static/css/main.a142fb8a.chunk.css",
+    "main.js": "/faisal12101123.github.io/monster-rolodex/static/js/main.2b3b74cd.chunk.js",
+    "main.js.map": "/faisal12101123.github.io/monster-rolodex/static/js/main.2b3b74cd.chunk.js.map",
+    "runtime-main.js": "/faisal12101123.github.io/monster-rolodex/static/js/runtime-main.8b747814.js",
+    "runtime-main.js.map": "/faisal12101123.github.io/monster-rolodex/static/js/runtime-main.8b747814.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/faisal12101123.github.io/monster-rolodex/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/faisal12101123.github.io/monster-rolodex/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/faisal12101123.github.io/monster-rolodex/index.html",
+    "precache-manifest.83efe7659aab55a2cbc2f2a630004fc2.js": "/faisal12101123.github.io/monster-rolodex/precache-manifest.83efe7659aab55a2cbc2f2a630004fc2.js",
+    "service-worker.js": "/faisal12101123.github.io/monster-rolodex/service-worker.js",
+    "static/css/main.a142fb8a.chunk.css.map": "/faisal12101123.github.io/monster-rolodex/static/css/main.a142fb8a.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/faisal12101123.github.io/monster-rolodex/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b747814.js",
+    "static/js/2.7d94dc6b.chunk.js",
+    "static/css/main.a142fb8a.chunk.css",
+    "static/js/main.2b3b74cd.chunk.js"
+  ]
+}
